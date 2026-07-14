@@ -1,4 +1,4 @@
-<img width="3406" height="1914" alt="2026-07-14_22-18" src="https://github.com/user-attachments/assets/615cde3a-f8de-49cb-aaf4-7e1baf239d0f" /><div align="center">
+
 
 # 🦷 Lumina Dental
 
