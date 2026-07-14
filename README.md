@@ -29,9 +29,6 @@ benefit-led hero to transparent pricing, real patient reviews, and a friction-fr
 The project is built as a clean, component-driven React application with a centralized content layer,
 so the entire site can be re-themed or re-used for any clinic in minutes.
 
-> 🎯 **Built as a freelance / portfolio piece** to demonstrate modern front-end craftsmanship:
-> responsive design, custom interactions, accessible markup, and a maintainable architecture.
-
 ---
 
 ## ✨ Features
