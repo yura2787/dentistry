@@ -17,12 +17,6 @@ A modern, fully responsive landing page for a premium dental clinic — built wi
 
 **[🔗 Live Demo](#)** &nbsp;·&nbsp; **[📸 Screenshots](#-screenshots)** &nbsp;·&nbsp; **[✨ Features](#-features)** &nbsp;·&nbsp; **[🚀 Getting Started](#-getting-started)**
 
-</div>
-
-<br/>
-
-<!-- 👇 ВСТАВ СВОЄ ЗОБРАЖЕННЯ: збережи скриншот героя як docs/hero.png -->
-![Lumina Dental — hero](docs/hero.png)
 
 ---
 
