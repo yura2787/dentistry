@@ -57,6 +57,9 @@ so the entire site can be re-themed or re-used for any clinic in minutes.
 
 <img width="3392" height="1928" alt="2026-07-14_22-16_3" src="https://github.com/user-attachments/assets/ae8b4369-9567-4f35-930b-d9169d06f3ca" />
 
+<img width="3410" height="1926" alt="2026-07-14_22-17" src="https://github.com/user-attachments/assets/ab4de237-ad3c-4113-ace8-b3c29c5415d0" />
+
+
 <img width="3396" height="1898" alt="2026-07-14_22-17_1" src="https://github.com/user-attachments/assets/76666400-9d9f-4156-9d90-1b23bc17d889" />
 
 <img width="3416" height="1942" alt="2026-07-14_22-17_2" src="https://github.com/user-attachments/assets/5c7f3436-c6a1-416a-bcef-ab02df56fd9a" />
