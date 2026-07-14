@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    @apply bg-cream text-ink font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    @apply bg-clay/20 text-ink;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-clay;
+  }
+
+  .h-display {
+    @apply font-display font-extrabold leading-[1.02] tracking-tight text-ink;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-clay;
+  }
+
+  .btn-primary {
+    @apply btn bg-clay text-white shadow-soft hover:bg-clay-dark hover:-translate-y-0.5;
+  }
+
+  .btn-ghost {
+    @apply btn border border-ink/15 bg-white/60 text-ink hover:border-ink/30 hover:bg-white;
+  }
+
+  .card {
+    @apply rounded-3xl border border-ink/[0.06] bg-white shadow-soft;
+  }
+}
+
+/* Custom scrollbar for testimonial rail */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
