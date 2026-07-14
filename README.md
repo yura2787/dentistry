@@ -1,4 +1,4 @@
-<div align="center">
+<img width="3406" height="1914" alt="2026-07-14_22-18" src="https://github.com/user-attachments/assets/615cde3a-f8de-49cb-aaf4-7e1baf239d0f" /><div align="center">
 
 # 🦷 Lumina Dental
 
@@ -48,20 +48,30 @@ so the entire site can be re-themed or re-used for any clinic in minutes.
 
 ## 📸 Screenshots
 
+<img width="3270" height="1894" alt="2026-07-14_22-16" src="https://github.com/user-attachments/assets/32560ead-34b0-434e-914c-8416091af37f" />
 
-<div align="center">
+<img width="3374" height="1904" alt="2026-07-14_22-16_1" src="https://github.com/user-attachments/assets/5641de85-ed6f-4e0d-90f0-832af93748cd" />
 
-### Desktop
-![Desktop overview](docs/full.png)
+<img width="3394" height="1988" alt="2026-07-14_22-16_2" src="https://github.com/user-attachments/assets/e379288e-bd8e-4852-a1dc-f2cf6d0003ee" />
 
-### Services & Pricing
-<img src="docs/services.png" width="49%" alt="Services section" />
-<img src="docs/pricing.png" width="49%" alt="Pricing section" />
 
-### Mobile
-<img src="docs/mobile.png" width="320" alt="Mobile view" />
+<img width="3392" height="1928" alt="2026-07-14_22-16_3" src="https://github.com/user-attachments/assets/ae8b4369-9567-4f35-930b-d9169d06f3ca" />
 
-</div>
+<img width="3396" height="1898" alt="2026-07-14_22-17_1" src="https://github.com/user-attachments/assets/76666400-9d9f-4156-9d90-1b23bc17d889" />
+
+<img width="3416" height="1942" alt="2026-07-14_22-17_2" src="https://github.com/user-attachments/assets/5c7f3436-c6a1-416a-bcef-ab02df56fd9a" />
+
+<img width="3410" height="1868" alt="2026-07-14_22-17_3" src="https://github.com/user-attachments/assets/202a7756-259f-4cbe-92b0-8f94c9590521" />
+
+<img width="3236" height="1926" alt="2026-07-14_22-18_1" src="https://github.com/user-attachments/assets/a55d1d62-d05c-42d8-966a-cfa942a4bf02" />
+
+
+<img width="3406" height="1882" alt="2026-07-14_22-18_2" src="https://github.com/user-attachments/assets/ed0a8092-3b7d-4fa4-af46-90e610bd9895" />
+
+
+<img width="3406" height="1914" alt="2026-07-14_22-18" src="https://github.com/user-attachments/assets/ad768dbd-c3b1-4417-8616-e44e711f879a" />
+
+
 
 ---
 
